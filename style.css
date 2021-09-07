@@ -1,0 +1,76 @@
+.container{
+  margin-bottom:70px;
+}
+.navbar-brand img{
+  width:50%;
+}
+.navbar-nav{
+  float:right;
+}
+.carousel-item{
+  height:550px;
+  padding:20px 10px;
+  border-radius:10px;
+}
+.top-bg{
+  background-image:url("images/bg-1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.left-bg{
+  background-image: url("images/bg-2.png");
+  background-repeat: no-repeat;
+  background-position:left;
+  margin-top:150px;
+  } 
+.buy-now-button{
+  background-color:black;
+  color:white;
+  border:none;
+  padding:9px 25px;
+  border-radius:8px;
+  cursor:pointer;
+}
+.side-font{
+  color:orange;
+}
+.card{
+  box-shadow:5px 5px 30px lightgray;
+  border:none;
+  border-radius:20px;
+}
+.card-footer{
+  border:none;
+  background-color:white;
+text-align: center;
+}
+.end-part{
+  text-align:center;
+}
+.grid-1{
+margin-top:250px;
+padding-top:50px;
+padding-right:150px;
+padding-left:50px;
+padding-bottom:30px;
+}
+.box-img{
+box-shadow:5px 5px 20px lightgray;
+border-radius:10px;
+}
+.grid-2{
+  margin-left:100px;
+  margin-top:50px;
+  padding-top:50px;
+  padding-right:150px;
+  padding-left:50px;
+  padding-bottom:30px;
+}
+.grid-3{
+  margin-left:100px;
+  margin-top:50px;
+  padding-top:50px;
+  padding-right:150px;
+  padding-left:50px;
+  padding-bottom:30px;
+}
